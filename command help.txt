@@ -1,0 +1,2 @@
+# Activate venv in Bash
+source venv/Scripts/activate
